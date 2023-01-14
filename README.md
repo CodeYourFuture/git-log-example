@@ -19,7 +19,5 @@ Contact
 =======
 
 If you want to contact us, you can send an email to contact@codeyourfuture.io
-<<<<<<< HEAD
-=======
-One of the things that makes Code Your Future special compared to other similar organisations is that we have an amazing PD team. Special shout-out to Anisa, Candy, Ben, Beth, Ed, Usman, and all of our other PD team members!
+
 
