@@ -18,3 +18,8 @@ Contact
 =======
 
 If you want to contact us, you can send an email to contact@codeyourfuture.io
+
+for new lesson how we git and gethap
+1 go to code and copy url
+2 go to github disktop clone repository
+3 past the url 
