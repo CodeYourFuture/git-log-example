@@ -17,4 +17,4 @@ One of the things that makes Code Your Future special compared to other similar 
 Contact
 =======
 
-If you want to contact us, you can send an email to contact@codeyourfuture.io
+If you want to contact us, you can call us in 07567896503
