@@ -18,3 +18,5 @@ Contact
 =======
 
 If you want to contact us, you can send an email to contact@codeyourfuture.io
+
+There is a contact number as well: +44-12345678
